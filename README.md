@@ -1,3 +1,3 @@
 listagem de usuario github
-![alt]("po1.png")
-![alt]("po2.png")
+![alt](./src/assets/po1.png)
+![alt](./src/assets/po2.png)
