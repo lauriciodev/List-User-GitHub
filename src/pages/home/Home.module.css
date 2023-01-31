@@ -1,0 +1,35 @@
+.title{
+  color:rgba(0, 255, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.search{
+  width: 100%;
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.search input{
+  width: 100%;
+  max-width: 500px;
+  height: 40px;
+  font-size: 1.1rem;
+  padding-left: 4px;
+}
+.search input:focus{
+  outline: none;
+}
+
+.search button{
+transition: all .1s;
+  padding: 8px 15px;
+  font-size: 1.2rem;
+  background-color: rgb(36, 255, 36);
+  border: none;
+}
+.search button:hover{
+  background-color: rgb(5, 131, 5);
+}

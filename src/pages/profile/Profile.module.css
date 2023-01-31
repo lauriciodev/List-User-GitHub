@@ -1,0 +1,31 @@
+.details{
+display:flex;
+padding: 20px 0;
+justify-content: center;
+gap: 14px;
+}
+
+.details img{
+  width: 100%;
+  max-width: 200px;
+}
+
+.user{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.details_user{
+display: flex;
+gap: 10px;
+}
+
+.follow__details{
+  font-size: 1rem;
+}
+.username__details{
+  background-color: #3c3c3c6e;
+  font-size: 1.2rem;
+}
+
